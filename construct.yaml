@@ -1,0 +1,12 @@
+name: earth-analytics-python-colab
+version: 0.1
+
+channels:
+  - conda-forge
+  - defaults
+
+environment_file: 
+
+# do not edit below this line
+# ---------------------------
+installer_type: sh
